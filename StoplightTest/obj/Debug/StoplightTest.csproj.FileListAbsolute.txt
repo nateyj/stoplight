@@ -1,0 +1,13 @@
+\\psf\home\documents\visual studio 2013\Projects\StoplightTest\StoplightTest\bin\Debug\StoplightTest.exe.config
+\\psf\home\documents\visual studio 2013\Projects\StoplightTest\StoplightTest\bin\Debug\StoplightTest.exe
+\\psf\home\documents\visual studio 2013\Projects\StoplightTest\StoplightTest\bin\Debug\StoplightTest.pdb
+\\psf\home\documents\visual studio 2013\Projects\StoplightTest\StoplightTest\obj\Debug\StoplightTest.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2013\Projects\StoplightTest\StoplightTest\obj\Debug\MainWindow.baml
+\\psf\home\documents\visual studio 2013\Projects\StoplightTest\StoplightTest\obj\Debug\MainWindow.g.cs
+\\psf\home\documents\visual studio 2013\Projects\StoplightTest\StoplightTest\obj\Debug\App.g.cs
+\\psf\home\documents\visual studio 2013\Projects\StoplightTest\StoplightTest\obj\Debug\StoplightTest_MarkupCompile.cache
+\\psf\home\documents\visual studio 2013\Projects\StoplightTest\StoplightTest\obj\Debug\StoplightTest.g.resources
+\\psf\home\documents\visual studio 2013\Projects\StoplightTest\StoplightTest\obj\Debug\StoplightTest.Properties.Resources.resources
+\\psf\home\documents\visual studio 2013\Projects\StoplightTest\StoplightTest\obj\Debug\StoplightTest.csproj.GenerateResource.Cache
+\\psf\home\documents\visual studio 2013\Projects\StoplightTest\StoplightTest\obj\Debug\StoplightTest.exe
+\\psf\home\documents\visual studio 2013\Projects\StoplightTest\StoplightTest\obj\Debug\StoplightTest.pdb
